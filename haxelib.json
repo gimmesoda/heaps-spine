@@ -1,0 +1,13 @@
+{
+	"name": "heaps-spine",
+	"license": "MIT",
+	"releasenote": "basic rendering",
+	"contributors": [
+		"gimmesoda"
+	],
+	"version": "1.0.0",
+	"dependencies": {
+		"spine-haxe": ""
+	},
+	"classPath": "src"
+}

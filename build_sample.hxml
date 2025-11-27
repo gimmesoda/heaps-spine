@@ -1,0 +1,12 @@
+-cp src
+-cp sample
+-m Main
+
+-D resourcesPath=sample/res
+
+-lib heaps
+-lib domkit
+-lib spine-haxe
+-lib hldx
+
+-hl sample.hl
