@@ -31,8 +31,8 @@ private class SpriteContent {
 	private var uploadedVertices:Int = 0;
 	private var uploadedIndices:Int = 0;
 
-	public var buffer : Buffer;
-	public var indexes : Indexes;
+	public var buffer:Buffer;
+	public var indexes:Indexes;
 	private var state:BatchDrawState;
 
 	public function new() {
